@@ -1,0 +1,10 @@
+<div class="questionnaire-details-wrapper">
+  <span>{{questionnaire?.title}}</span>
+  <div *ngFor="let questions of questionnaire?.questions">
+    <span>{{questions?.question}}</span>
+    <input type="radio" id="yes">
+    <label for="yes">Ja</label>
+    <input type="radio" id="no">
+    <label for="no">Nein</label>
+  </div>
+</div>
