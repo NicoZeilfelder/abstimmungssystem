@@ -21,3 +21,21 @@
 
 to be continued
 
+## Frontend
+
+- Angular-CLI v7.3.8
+- FE-Standalone
+
+### Template
+
+- HTML5
+- Container (Zugriff auf Services/Http/Localstorage)
+- Komponenten (Gekapselte Logik)
+
+### Styling
+
+- CSS/SCSS
+- CSS Flexbox (responsive Design)
+
+
+
