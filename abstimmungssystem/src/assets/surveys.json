@@ -1,0 +1,76 @@
+[
+  {
+    "id": "SURVEY1",
+    "title": "Terminkoordination Refinement 25.10.2020",
+    "questionnaires": [
+      {
+        "id": "S001-Q001",
+        "title": "Allgemeine Rahmenbedingungen",
+        "questions": [
+          {
+            "question": "Können Sie am Refinement am 25.10.2020 teilnehmen?",
+            "reply": null
+          },
+          {
+            "question": "Sind Sie vor Ort anwesend?",
+            "reply": null
+          },
+          {
+            "question": "Halten Sie eine Dauer von 90 Minuten sinnvoll?",
+            "reply": null
+          },
+          {
+            "question": "Sollte die Geschäftsleitung am Refinement teilnehmen?",
+            "reply": null
+          },
+          {
+            "question": "Sollte ein Folgetermin koordiniert werden?",
+            "reply": null
+          }
+        ]
+      },
+      {
+        "id": "S001-Q002",
+        "title": "Thematische Schwerpunkte",
+        "questions": [
+          {
+            "question": "Sollen Best Practices vorgestellt werden?",
+            "reply": null
+          },
+          {
+            "question": "Soll die technische Umsetzung besprochen werden?",
+            "reply": null
+          },
+          {
+            "question": "Soll auf den Aspekt der Nachhaltigkeit eingegangen werden?",
+            "reply": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SURVEY2",
+    "title": "Abstimmung Zielplan",
+    "questionnaires": [
+      {
+        "id": "S002-Q001",
+        "title": "Kurzfristige Ziele",
+        "questions": [
+          {
+            "question": "Streben Sie einen höheren Bildungsabschluss an?",
+            "reply": false
+          },
+          {
+            "question": "Streben Sie eine Führungsposition an?",
+            "reply": true
+          },
+          {
+            "question": "Streben Sie eine berufliche Reisetätigkeit an?",
+            "reply": true
+          }
+        ]
+      }
+    ]
+  }
+]
